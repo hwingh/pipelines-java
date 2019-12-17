@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/HwingH/LearnAzurePipeline/_apis/build/status/hwingh.pipelines-java?branchName=master)](https://dev.azure.com/HwingH/LearnAzurePipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
